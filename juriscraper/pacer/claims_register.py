@@ -1,6 +1,6 @@
 # coding=utf-8
 import re
-import urlparse
+from six.moves.urllib.parse import urlparse
 
 from juriscraper.pacer.reports import BaseReport
 from .docket_report import BaseDocketReport
