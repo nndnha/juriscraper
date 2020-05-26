@@ -94,7 +94,7 @@ setup(
         "feedparser",
         "geonamescache==0.20",
         "html5lib",
-        "lxml==3.5.0",
+        "lxml>=3.5.0",
         "python-dateutil==2.5.0",
         "requests==2.20.0",
         "selenium==2.53.6",
